@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function AboutLayout({
     children,
 }: {
-    children: React.ReactDOM;
+    children: React.ReactNode;
 }) { 
 
     return <div>
